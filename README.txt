@@ -15,3 +15,7 @@ huey_consumer.py -v main.huey
 pip install huey
 pip install redis
 pip install gevent
+
+# docs
+https://huey.readthedocs.io/en/latest/installation.html
+https://docs.python.org/3/tutorial/venv.html
